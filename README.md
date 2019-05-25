@@ -18,7 +18,7 @@ Batch speed measuring tool based on Shadowsocks(R)
 <p></p>
 
 ## Links
- - [中文文档](https://github.com/mazhenting/SSRSpeed/blob/master/README_ZH_CN.md)
+ - [中文文档](https://github.com/mazhenting/ssrspeed_backup/blob/master/README_ZH_CN.md)
 
 ## Important Hint
 
